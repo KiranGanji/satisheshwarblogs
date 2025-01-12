@@ -1,0 +1,84 @@
+baseURL: "https://satisheshwar.com/"
+languageCode: en-us
+title: Satish Eshwar
+theme: ["PaperMod"]
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+params:
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Welcome!"
+    subtitle: "Hey there! 👋 I am a seasoned **cybersecurity and technology evangelist** with extensive expertise 
+    in technology, automation, and cybersecurity. With a deep understanding of **governance, risk management, controls, and auditing**, 
+    I am dedicated to addressing **enterprise risk**, particularly in the cybersecurity landscape. 
+    My insights and experience enable me to navigate the complexities of modern technology challenges effectively."
+    imageUrl: "satishprofile.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: "Satish Eshwar"
+    buttons:
+      - name: Blog
+        url: articles
+      - name: About
+        url: about
+  
+  ShowShareButtons: true
+  socialIcons:
+    #- name: "x"
+    #  url: "https://x.com/bad_probability"
+    #  icon: "twitter"
+    - name: "LinkedIn"
+      url: "https://www.linkedin.com/in/satisheshwar/"
+      icon: "linkedin"
+
+  homeInfoParams:
+    Title: "Hello, I am Satish Eshwar"
+    Content: "**Hey there!** 👋 I am a seasoned **cybersecurity and technology evangelist** with extensive expertise 
+    in **technology, automation, and cybersecurity**. With a deep understanding of **governance, risk management, controls, and auditing**, 
+    I am dedicated to addressing **enterprise risk**, particularly in the **cybersecurity landscape**. 
+    My insights and experience enable me to navigate the complexities of modern **technology challenges** effectively."
+  cover:
+    linkFullImages: true
+  ShareButtons: ["linkedin", "x"]
+  ShowBreadCrumbs: false
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  ShowReadingTime: true
+  author: "| Author: Satish Eshwar"
+  DateFormat: "Date: January 2, 2006"
+  # analytics:
+  #   google:
+  #     id: "G-HTZMWV26BV"
+# ssss
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 20
+    - identifier: blog
+      name: Blog
+      url: /articles/
+      weight: 20 
+    - identifier: interests
+      name: Interests
+      url: /interests/
+      weight: 20 
+    - identifier: Search
+      name: Search
+      url: /search/
+      weight: 20
+
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search
