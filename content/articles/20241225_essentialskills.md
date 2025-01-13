@@ -1,6 +1,6 @@
 ---
-title: "Essential Skills That Shaped My Professional and Personal Journey - Part 1"
-date: 2024-12-25
+title: "Essential Skills That Shaped My Professional and Personal Journey"
+date: 2025-01-14
 tags: ["career", "skills", "automation", "risk management", "personal growth"]
 categories: ["CyberSecurity", "Learnings"]
 ---
@@ -60,5 +60,3 @@ By reading extensively and staying informed about the latest technological advan
 Spotting the growing importance of cybersecurity in the early 2010s helped me transition into a field that continues to grow in relevance. Similarly, I’m now exploring potential trends to stay ahead of the curve.
 
 ---
-
-*To Be Continued...*
