@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Career on Satish Eshwar</title>
+    <link>http://localhost:1313/tags/career/</link>
+    <description>Recent content in Career on Satish Eshwar</description>
+    <generator>Hugo -- 0.140.2</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Breaking into Cybersecurity: My Journey of Learning and Resilience</title>
+      <link>http://localhost:1313/articles/20241225_breaking_into_cybersecurity/</link>
+      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/20241225_breaking_into_cybersecurity/</guid>
+      <description>&lt;h3 id=&#34;tagline&#34;&gt;Tagline&lt;/h3&gt;
+&lt;p&gt;&lt;em&gt;You can only connect the dots in hindsight Take every opportunity to learn, even if you don’t know what’s best at the time… Give it your best shot, absorb the learnings, and move forward.&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
+&lt;p&gt;With over &lt;strong&gt;20 years in IT&lt;/strong&gt; and &lt;strong&gt;15+ years specializing in security&lt;/strong&gt;, I currently serve as an advisor at a US MNC. My expertise spans various domains, including Identity, Vulnerability Management, Incident Response, Audit, Controls, Compliance, Third-Party Security, and Application Security.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
