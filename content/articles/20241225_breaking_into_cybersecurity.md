@@ -6,7 +6,9 @@ categories: ["CyberSecurity"]
 ---
 
 ### Tagline  
-*You can only connect the dots in hindsight Take every opportunity to learn, even if you don’t know what’s best at the time… Give it your best shot, absorb the learnings, and move forward.*
+*You can only connect the dots in hindsight.. 
+Take every opportunity to learn, even if you don’t know what’s best at the time… 
+Give it your best shot, absorb the learnings, and move forward.*
 
 ---
 
@@ -20,7 +22,7 @@ I started out primarily as a **helpdesk personnel**, making rounds in the office
 
 Coming from a **non-computer science background**, transitioning into helpdesk work was challenging but never dull. Each day brought manifold learning opportunities. I began keeping a list of things I learned, taking incremental steps each day. Before long, I was handling more complex issues and managing a site of **300 users**, supporting their servers and user systems.  
 
-Over the next few years, my **learning curve** and **curiosity** drove me to explore various areas and roles. This journey of discovery led me to different positions, each building on the last. These transitions didn’t happen by accident.  
+Over the next few years, my **learning curve** and **curiosity** drove me to explore various areas and roles. This journey of discovery led me to different positions, each building on the last. But these transitions didn’t happen by accident.  
 
 ---
 
@@ -36,7 +38,7 @@ My first brush with cybersecurity came early during the implementation of **audi
 
 My first official role was in **Legal Compliance** at an investment bank, focusing on **eDiscovery and eRetention**. This role exposed me to **governance, risk, and audit functions**. I quickly built up basic certifications, such as **CEH**, which helped me solidify my foundational knowledge.  
 
-With each passing year, I sought to accumulate more cybersecurity knowledge, pivoting to new roles and dedicating time to studying for certifications and applying them in real-world situations. This journey led me to roles in **Security Testing**, building secure systems, and managing entire security delivery services for a **European retail client**. Today, I have the privilege of working across **third-party risk, application security, audit, and governance roles**.  
+With each passing year, I sought to accumulate more cybersecurity knowledge, pivoting to new roles and dedicating time to studying for certifications and applying them in real-world situations. This journey led me to roles in **Security Testing**, building secure systems, and managing entire security delivery services for a **European retail client**. Today, I have the privilege of working across **third-party risk, application security, audit, and governance roles** at a US MNC.  
 
 ---
 
