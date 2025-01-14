@@ -1,5 +1,5 @@
 ---
-title: "#1 - Essential Skills That Shaped My Professional and Personal Journey"
+title: "#2 - Essential Skills That Shaped My Professional and Personal Journey"
 date: 2025-01-14
 tags: ["career", "skills", "automation", "risk management", "personal growth"]
 categories: ["CyberSecurity", "Learnings"]

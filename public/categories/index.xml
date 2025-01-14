@@ -6,8 +6,22 @@
     <description>Recent content in Categories on Satish Eshwar</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberSecurity</title>
+      <link>http://localhost:1313/categories/cybersecurity/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/cybersecurity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Learnings</title>
+      <link>http://localhost:1313/categories/learnings/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/categories/learnings/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Curiosity</title>
       <link>http://localhost:1313/categories/curiosity/</link>
@@ -27,13 +41,6 @@
       <link>http://localhost:1313/categories/personal/</link>
       <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/categories/personal/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>CyberSecurity</title>
-      <link>http://localhost:1313/categories/cybersecurity/</link>
-      <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/cybersecurity/</guid>
       <description></description>
     </item>
   </channel>

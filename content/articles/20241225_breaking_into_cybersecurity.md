@@ -1,5 +1,5 @@
 ---
-title: "Breaking into Cybersecurity: My Journey of Learning and Resilience"
+title: "#1 - Breaking into Cybersecurity: My Journey of Learning and Resilience"
 date: 2024-12-24T00:00:00Z
 tags: ["cybersecurity", "career", "resilience", "learning"]
 categories: ["CyberSecurity"]

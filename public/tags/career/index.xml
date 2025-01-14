@@ -6,15 +6,34 @@
     <description>Recent content in Career on Satish Eshwar</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/career/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>#1 - Essential Skills That Shaped My Professional and Personal Journey</title>
+      <link>http://localhost:1313/articles/20241225_essentialskills/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/20241225_essentialskills/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;In my career spanning over two decades&lt;/strong&gt;, I came to realize that technical expertise was only one part of the puzzle when it came to professional growth. What truly made a difference was the ability to cultivate and apply essential skills that were versatile, repeatable, transferable, and impactful across both professional and personal domains.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;In this article, I attempt to highlight some of the skills that helped me shape my career journey. I hope this also offers insights into how to think about choosing skills and leveraging them to your advantage.&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>#2 - Essential Skills That Shaped My Professional and Personal Journey</title>
+      <link>http://localhost:1313/articles/20250114_essentialskills/</link>
+      <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/articles/20250114_essentialskills/</guid>
+      <description>&lt;h1 id=&#34;unlocking-insights-with-data-analytics-turning-data-into-actionable-strategies&#34;&gt;Unlocking Insights with Data Analytics: Turning Data into Actionable Strategies&lt;/h1&gt;
+&lt;p&gt;The constant risks we encountered in operations sparked my curiosity about data and its potential to provide deeper insights. i applied the same techniques when i dealt wit cybersecurity issues as well. This led me to explore tools like Excel, Tableau, Power BI, and Python libraries such as Pandas, while automating workflows using Power Automate.&lt;/p&gt;
+&lt;p&gt;One pivotal project involved preparing a case for adding data quality indicators when none existed. By collaborating with GRC members, we defined what constituted a good data record, set up data identifiers, and developed those quality indicators. With these in place, building analytics on existing indicators became much easier, enabling us to spot trends, mitigate risks, and uncover actionable insights.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Breaking into Cybersecurity: My Journey of Learning and Resilience</title>
       <link>http://localhost:1313/articles/20241225_breaking_into_cybersecurity/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/articles/20241225_breaking_into_cybersecurity/</guid>
       <description>&lt;h3 id=&#34;tagline&#34;&gt;Tagline&lt;/h3&gt;
-&lt;p&gt;&lt;em&gt;You can only connect the dots in hindsight Take every opportunity to learn, even if you don’t know what’s best at the time… Give it your best shot, absorb the learnings, and move forward.&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;You can only connect the dots in hindsight..
+Take every opportunity to learn, even if you don’t know what’s best at the time…
+Give it your best shot, absorb the learnings, and move forward.&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;about-me&#34;&gt;About Me&lt;/h3&gt;
 &lt;p&gt;With over &lt;strong&gt;20 years in IT&lt;/strong&gt; and &lt;strong&gt;15+ years specializing in security&lt;/strong&gt;, I currently serve as an advisor at a US MNC. My expertise spans various domains, including Identity, Vulnerability Management, Incident Response, Audit, Controls, Compliance, Third-Party Security, and Application Security.&lt;/p&gt;</description>
