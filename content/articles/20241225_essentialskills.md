@@ -7,7 +7,7 @@ categories: ["CyberSecurity", "Learnings"]
 
 **In my career spanning over two decades**, I came to realize that technical expertise was only one part of the puzzle when it came to professional growth. What truly made a difference was the ability to cultivate and apply essential skills that were versatile, repeatable, transferable, and impactful across both professional and personal domains. 
 
-*In this article, my humble attempt is to highlight some of the skills that helped me shape my career journey. I hope this also offers insights into how to think about choosing skills and leveraging them to your advantage.*
+*In this article, I attempt to highlight some of the skills that helped me shape my career journey. I hope this also offers insights into how to think about choosing skills and leveraging them to your advantage.*
 
 ---
 
@@ -34,7 +34,7 @@ The concept of risk extended far beyond traditional risk-based roles—it influe
 
 #### Professional Insights:
 - Risk wasn’t just about vulnerabilities; it was about understanding impact, likelihood, and mitigation.
-- In compliance and audit, evaluating risk holistically ensured that controls were meaningful and not just tick-box exercises.
+- In compliance and audit, evaluating risk holistically ensured that controls were meaningful and not just tick-in-the-box exercises.
 
 #### Personal Insights:
 - Recognizing risks in decision-making has helped me weigh options more effectively and act with confidence.
@@ -42,21 +42,5 @@ The concept of risk extended far beyond traditional risk-based roles—it influe
 
 **Example:**  
 - Third-party risk encompassed various aspects of supplier risk, from evaluating their solutions to understanding interconnected vulnerabilities. It taught me the importance of holistic assessments while keeping the core intent of evaluation in focus.  
-- On a personal level, applying these risk principles helped me make well-informed financial and life decisions.
-
----
-
-### Anticipate. Adapt. Thrive: Your Guide to Staying Ahead of the Curve
-
-**Staying relevant in a fast-changing world** requires the ability to anticipate trends. Over the years, I’ve spent time observing market signals and understanding which skills and technologies are likely to become essential.  
-By reading extensively and staying informed about the latest technological advancements, I’ve tried to remain relevant with evolving industry demands and market dynamics.
-
-#### Key Trends in the Past:
-- **2010:** Cybersecurity as an emerging field.  
-- **2020:** Decentralization and Blockchain technologies.  
-- **2023:** Artificial Intelligence and its implications for privacy and security.
-
-**Example:**  
-Spotting the growing importance of cybersecurity in the early 2010s helped me transition into a field that continues to grow in relevance. Similarly, I’m now exploring potential trends to stay ahead of the curve.
 
 ---
