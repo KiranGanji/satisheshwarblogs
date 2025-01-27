@@ -1,6 +1,6 @@
 ---
 title: "#3 - Essential Skills That Shaped My Professional and Personal Journey"
-date: 2025-01-14
+date: 2025-01-27
 tags: ["career", "skills", "data analytics", "tech trends", "personal growth"]
 categories: ["CyberSecurity", "Learnings"]
 ---
